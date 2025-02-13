@@ -1,0 +1,1 @@
+my @array = (1, 2, 3); if (@array > 0) { foreach my $i (0..$#array) { print $array[$i]; } } else { print "Array is empty"; }
